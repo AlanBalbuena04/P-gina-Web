@@ -116,6 +116,7 @@ html{
 .slider li{
   width: 50%;
   list-style: none;
+  padding-left: 50px;
 }
 .slider img{
   width: 50%;
